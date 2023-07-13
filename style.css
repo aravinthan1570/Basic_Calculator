@@ -1,0 +1,30 @@
+body{
+    background: aqua;
+}
+h1{
+    background-color:gray;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h3{
+    background: yellow;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+
+div{
+    background:chartreuse;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
